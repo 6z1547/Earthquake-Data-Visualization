@@ -1,9 +1,147 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="27.1.0">
   <diagram name="第 1 页" id="rxgc4ERkJXhyJHo-R4CP">
-    <mxGraphModel>
+    <mxGraphModel dx="803" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="liGXrWUtWw521MSXFQRk-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="150" as="sourcePoint" />
+            <mxPoint x="90" y="813.2814983258929" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="220" as="sourcePoint" />
+            <mxPoint x="165" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-5" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年1月12日 8&lt;span style=&quot;color: rgb(64, 120, 242);&quot; class=&quot;token operator&quot;&gt;:&lt;/span&gt;30： 33人进入作业区&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="200" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="294.71" as="sourcePoint" />
+            <mxPoint x="165" y="294.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-9" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年1月12日 13:00：爆破后清煤作业&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="280" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-12" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1 %3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2295%22%20y%3D%22220%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22%22%20y%3D%22220%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bpre% 20style%3D%26quot%3Bfont-family%3A%20var（--ds-font-family-code）%3B%20overflow%3A%20auto%3B%20padding%3A%20calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）%3B%20text-wrap%3A%20wrap%3B%20word-break%3A%20break-all%3B%20color%3A%20rgb（73%2C%2073%2C%2073）%3B%20font-size%3A%2012.573px%3B%20text-align%3A%20start%3B%20margin-top%3A%200px%20！important%3B%20margin-bottom%3A%200px%20！重要%3B%26quot%3B%26gt%3B2024%E5%B9%B41%E6%9C%8812%E6%97%A5%20%EF%BC%9A%20%E4%B8%8A%E5%8D%888%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb（64%2C%20120%2 C%20242）%3B%26quot%3B%20class%3D%26quot%3Btoken%20operator%26quot%3B%26gt%3B%3A%26lt%3B%2Fspan%26gt%3B30%2033%E4%BA%BA%E8%BF%9B%E5%85%A5%E4%BD%9C%E4%B8%9A%E5%8C%BA%26lt%3Bbr%26gt%3B%26lt%3B%2Fpre%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22200%22%20width%3D%22340%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-14" value="" style="endArrow=classic;html=1 ;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="334.71" as="sourcePoint" />
+            <mxPoint x="165" y="334.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-15" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年1月12日 14:49：煤与瓦斯突出&lt;span style=&quot;font-family: var(--ds-font-family-code); white-space-collapse: collapse; background-color: transparent; color: rgb(80, 161, 79);&quot; class=&quot;token text string&quot;&gt;(煤炮声→瓦斯煤尘涌出)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="320" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-16" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1 %3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2295%22%20y%3D%22220%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22%22%20y%3D%22220%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bpre% 20style%3D%26quot%3Bfont-family%3A%20var（--ds-font-family-code）%3B%20overflow%3A%20auto%3B%20padding%3A%20calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）%3B%20text-wrap%3A%20wrap%3B%20word-break%3A%20break-all%3B%20color%3A%20rgb（73%2C%2073%2C%2073）%3B%20font-size%3A%2012.573px%3B%20text-align%3A%20start%3B%20margin-top%3A%200px%20！important%3B%20margin-bottom%3A%200px%20！重要%3B%26quot%3B%26gt%3B2024%E5%B9%B41%E6%9C%8812%E6%97%A5%20%EF%BC%9A%20%E4%B8%8A%E5%8D%888%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb（64%2C%20120%2 C%20242）%3B%26quot%3B%20class%3D%26quot%3Btoken%20operator%26quot%3B%26gt%3B%3A%26lt%3B%2Fspan%26gt%3B30%2033%E4%BA%BA%E8%BF%9B%E5%85%A5%E4%BD%9C%E4%B8%9A%E5%8C%BA%26lt%3Bbr%26gt%3B%26lt%3B%2Fpre%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22200%22%20width%3D%22340%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-17" value="" style="endArrow=classic;html=1 ;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="410" as="sourcePoint" />
+            <mxPoint x="165" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-18" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt; 2024年1月12日 ： 下午2&lt;span style=&quot;color: rgb(64, 120, 242);&quot; class=&quot;token operator&quot;&gt;:&lt;/span&gt;56 瓦斯报警，通知撤人&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="400" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-20" value="" style="endArrow=classic;html=1 ;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="460" as="sourcePoint" />
+            <mxPoint x="165" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-21" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年1月12日 ： 下午3&lt;span style=&quot;color: rgb(64, 120, 242);&quot; class=&quot;token operator&quot;&gt;:&lt;/span&gt;27 救护大队出动&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="450" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-22" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1 %3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2295%22%20y%3D%22220%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22%22%20y%3D%22220%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bpre% 20style%3D%26quot%3Bfont-family%3A%20var（--ds-font-family-code）%3B%20overflow%3A%20auto%3B%20padding%3A%20calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）%3B%20text-wrap%3A%20wrap%3B%20word-break%3A%20break-all%3B%20color%3A%20rgb（73%2C%2073%2C%2073）%3B%20font-size%3A%2012.573px%3B%20text-align%3A%20start%3B%20margin-top%3A%200px%20！important%3B%20margin-bottom%3A%200px%20！重要%3B%26quot%3B%26gt%3B2024%E5%B9%B41%E6%9C%8812%E6%97%A5%20%EF%BC%9A%20%E4%B8%8A%E5%8D%888%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb（64%2C%20120%2 C%20242）%3B%26quot%3B%20class%3D%26quot%3Btoken%20operator%26quot%3B%26gt%3B%3A%26lt%3B%2Fspan%26gt%3B30%2033%E4%BA%BA%E8%BF%9B%E5%85%A5%E4%BD%9C%E4%B8%9A%E5%8C%BA%26lt%3Bbr%26gt%3B%26lt%3B%2Fpre%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22200%22%20width%3D%22340%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="700" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-23" value="" style="endArrow=classic;html=1 ;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="510" as="sourcePoint" />
+            <mxPoint x="165" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-24" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt; 2024年1月12日 ： 下午3&lt;span style=&quot;color: rgb(64, 120, 242);&quot; class=&quot;token operator&quot;&gt;:&lt;/span&gt;45 救护队到达井下&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="500" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-25" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1 %3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2295%22%20y%3D%22220%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22%22%20y%3D%22220%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bpre% 20style%3D%26quot%3Bfont-family%3A%20var（--ds-font-family-code）%3B%20overflow%3A%20auto%3B%20padding%3A%20calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）%3B%20text-wrap%3A%20wrap%3B%20word-break%3A%20break-all%3B%20color%3A%20rgb（73%2C%2073%2C%2073）%3B%20font-size%3A%2012.573px%3B%20text-align%3A%20start%3B%20margin-top%3A%200px%20！important%3B%20margin-bottom%3A%200px%20！重要%3B%26quot%3B%26gt%3B2024%E5%B9%B41%E6%9C%8812%E6%97%A5%20%EF%BC%9A%20%E4%B8%8A%E5%8D%888%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb（64%2C%20120%2 C%20242）%3B%26quot%3B%20class%3D%26quot%3Btoken%20operator%26quot%3B%26gt%3B%3A%26lt%3B%2Fspan%26gt%3B30%2033%E4%BA%BA%E8%BF%9B%E5%85%A5%E4%BD%9C%E4%B8%9A%E5%8C%BA%26lt%3Bbr%26gt%3B%26lt%3B%2Fpre%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22200%22%20width%3D%22340%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="790" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-26" value="" style="endArrow=classic;html=1 ;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="570" as="sourcePoint" />
+            <mxPoint x="165" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-27" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年1月12日 ： 下午3&lt;span style=&quot;color: rgb(64, 120, 242);&quot; class=&quot;token operator&quot;&gt;:&lt;/span&gt;56 向省级部门报告&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="555" width="315" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-28" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1 %3Brounded%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%2295%22%20y%3D%22220%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22%22%20y%3D%22220%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bpre% 20style%3D%26quot%3Bfont-family%3A%20var（--ds-font-family-code）%3B%20overflow%3A%20auto%3B%20padding%3A%20calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）%3B%20text-wrap%3A%20wrap%3B%20word-break%3A%20break-all%3B%20color%3A%20rgb（73%2C%2073%2C%2073）%3B%20font-size%3A%2012.573px%3B%20text-align%3A%20start%3B%20margin-top%3A%200px%20！important%3B%20margin-bottom%3A%200px%20！重要%3B%26quot%3B%26gt%3B2024%E5%B9%B41%E6%9C%8812%E6%97%A5%20%EF%BC%9A%20%E4%B8%8A%E5%8D%888%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb（64%2C%20120%2 C%20242）%3B%26quot%3B%20class%3D%26quot%3Btoken%20operator%26quot%3B%26gt%3B%3A%26lt%3B%2Fspan%26gt%3B30%2033%E4%BA%BA%E8%BF%9B%E5%85%A5%E4%BD%9C%E4%B8%9A%E5%8C%BA%26lt%3Bbr%26gt%3B%26lt%3B%2Fpre%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22200%22%20width%3D%22340%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="870" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-29" value="" style="endArrow=classic;html=1 ;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="610" as="sourcePoint" />
+            <mxPoint x="165" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-30" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年1月19日 ： 凌晨1&lt;span style=&quot;color: rgb(64, 120, 242);&quot; class=&quot;token operator&quot;&gt;:&lt;/span&gt;27 16名遇难者全部找到&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="600" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="254.70999999999998" as="sourcePoint" />
+            <mxPoint x="165" y="254.70999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-32" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年1月12日12:00：实施爆破&lt;br&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="240" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-33" value="现场人员积极自救" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="360" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-38" value="&lt;pre style=&quot;font-family: var（--ds-font） -family-code）; overflow: auto; padding: calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）; text-wrap: wrap; word-break: break-all; color: rgb（73, 73, 73）; font-size: 12.2012.573 像素; text-align: start; margin-top: 0px ！important; margin-bottom: 0px ！重要;&quot;&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年2月2日 ： 遇难者家属全部签署赔偿协议&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="640" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-39" value="" style="endArrow=classic;html=1  ;圆角=0;" edge="1" parent="1">
+          <mxGeometry height="50" 宽度="50" relative="1" as="geometry">
+            <mxPoint x="95" y="654.71" as="sourcePoint" />
+            <mxPoint x="165" y="654.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-42" value="" style="endArrow=classic;html=1  ;圆角=0;" edge="1" parent="1">
+          <mxGeometry height="50" 宽度="50" relative="1" as="geometry">
+            <mxPoint x="95" y="694.71" as="sourcePoint" />
+            <mxPoint x="165" y="694.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-43" value="" style="endArrow=classic;html=1  ;圆角=0;" edge="1" parent="1">
+          <mxGeometry height="50" 宽度="50" relative="1" as="geometry">
+            <mxPoint x="95" y="740" as="sourcePoint" />
+            <mxPoint x="165" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-44" value="&lt;pre style=&quot;font-family: var（--ds-font） -family-code）; overflow: auto; padding: calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）; text-wrap: wrap; word-break: break-all; color: rgb（73, 73, 73）; font-size: 12.2012.573 像素; text-align: start; margin-top: 0px ！important; margin-bottom: 0px ！重要;&quot;&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年2月 ： 39人被追责，矿井罚900万/暂扣许可证&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="730" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liGXrWUtWw521MSXFQRk-45" value="&lt;pre style=&quot;font-family: var（--ds-font） -family-code）; overflow: auto; padding: calc（var（--ds-md-zoom）*8px）calc（var（--ds-md-zoom）*12px）; text-wrap: wrap; word-break: break-all; color: rgb（73, 73, 73）; font-size: 12.2012.573 像素; text-align: start; margin-top: 0px ！important; margin-bottom: 0px ！重要;&quot;&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;2024年2月5日 ： 5名伤者康复出院&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="680" width="315" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
